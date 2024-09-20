@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/b0tAbhinaV/LeetCode-Ans/tree/master/0014-longest-common-prefix) |
 | [0125-valid-palindrome](https://github.com/b0tAbhinaV/LeetCode-Ans/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/b0tAbhinaV/LeetCode-Ans/tree/master/0205-isomorphic-strings) |
+| [0812-rotate-string](https://github.com/b0tAbhinaV/LeetCode-Ans/tree/master/0812-rotate-string) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -39,4 +40,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0205-isomorphic-strings](https://github.com/b0tAbhinaV/LeetCode-Ans/tree/master/0205-isomorphic-strings) |
+## String Matching
+|  |
+| ------- |
+| [0812-rotate-string](https://github.com/b0tAbhinaV/LeetCode-Ans/tree/master/0812-rotate-string) |
 <!---LeetCode Topics End-->
