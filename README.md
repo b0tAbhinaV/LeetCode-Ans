@@ -74,4 +74,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/b0tAbhinaV/LeetCode-Ans/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
+## Linked List
+|  |
+| ------- |
+| [0237-delete-node-in-a-linked-list](https://github.com/b0tAbhinaV/LeetCode-Ans/tree/master/0237-delete-node-in-a-linked-list) |
 <!---LeetCode Topics End-->
