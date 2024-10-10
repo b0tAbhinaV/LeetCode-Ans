@@ -1,27 +1,21 @@
 class Solution {
 public:
+    long long int atoi(string s, int i, int sign, long long int result){
+        if(sign*result >= INT_MAX) return INT_MAX;
+        if(sign*result <= INT_MIN) return INT_MIN;
+        if(i >= s.length() || s[i] < '0' || s[i] > '9'){
+            return sign*result;
+        }
+        result = atoi(s, i+1, sign, (result*10 + (s[i] - '0')));
+        return result;
+    }
     int myAtoi(string s) {
         int i = 0;
         int sign = 1;
-        long ans = 0;
-        while(i < s.length() && s[i] == ' '){
-            i++;
-        }
-        if(s[i] == '-'){
-            sign = -1;
-            i++;
-        }
+        while(s[i] == ' ' && i < s.length()) i++;
+        if(s[i] == '-') sign = -1, i++;
         else if(s[i] == '+') i++;
-        while(i<s.length()){
-            if(s[i]>='0' && s[i]<='9'){
-                ans = ans*10 + (s[i]-'0');
-                if(ans > INT_MAX && sign == -1)return INT_MIN;
-                if(ans > INT_MAX) return INT_MAX;
-                i++;
-            }
-            else return ans*sign;
-        }
-        if(ans == INT_MIN) return INT_MIN;
-        return sign*ans;
+
+        return atoi(s, i, sign, 0);
     }
 };
