@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/b0tAbhinaV/LeetCode-Ans/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/b0tAbhinaV/LeetCode-Ans/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/b0tAbhinaV/LeetCode-Ans/tree/master/0013-roman-to-integer) |
+| [0050-powx-n](https://github.com/b0tAbhinaV/LeetCode-Ans/tree/master/0050-powx-n) |
 | [1013-fibonacci-number](https://github.com/b0tAbhinaV/LeetCode-Ans/tree/master/1013-fibonacci-number) |
 ## Two Pointers
 |  |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/b0tAbhinaV/LeetCode-Ans/tree/master/0002-add-two-numbers) |
+| [0050-powx-n](https://github.com/b0tAbhinaV/LeetCode-Ans/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/b0tAbhinaV/LeetCode-Ans/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/b0tAbhinaV/LeetCode-Ans/tree/master/0234-palindrome-linked-list) |
 | [1013-fibonacci-number](https://github.com/b0tAbhinaV/LeetCode-Ans/tree/master/1013-fibonacci-number) |
