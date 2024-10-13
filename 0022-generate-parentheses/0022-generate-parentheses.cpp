@@ -5,7 +5,7 @@ public:
             ans.push_back(op);
             return;
         }
-        else if(open == close || close == 0){
+        else if(open == close){
             string op1 = op;
             op1.push_back('(');
             solve(op1, open-1, close, ans);
