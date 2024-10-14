@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/b0tAbhinaV/LeetCode-Ans/tree/master/0050-powx-n) |
 | [1013-fibonacci-number](https://github.com/b0tAbhinaV/LeetCode-Ans/tree/master/1013-fibonacci-number) |
 | [2050-count-good-numbers](https://github.com/b0tAbhinaV/LeetCode-Ans/tree/master/2050-count-good-numbers) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/b0tAbhinaV/LeetCode-Ans/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/b0tAbhinaV/LeetCode-Ans/tree/master/0234-palindrome-linked-list) |
 | [1013-fibonacci-number](https://github.com/b0tAbhinaV/LeetCode-Ans/tree/master/1013-fibonacci-number) |
 | [2050-count-good-numbers](https://github.com/b0tAbhinaV/LeetCode-Ans/tree/master/2050-count-good-numbers) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/b0tAbhinaV/LeetCode-Ans/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Memoization
 |  |
 | ------- |
@@ -126,4 +128,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/b0tAbhinaV/LeetCode-Ans/tree/master/0022-generate-parentheses) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/b0tAbhinaV/LeetCode-Ans/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+## Simulation
+|  |
+| ------- |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/b0tAbhinaV/LeetCode-Ans/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 <!---LeetCode Topics End-->
