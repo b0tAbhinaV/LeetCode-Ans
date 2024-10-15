@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/b0tAbhinaV/LeetCode-Ans/tree/master/0234-palindrome-linked-list) |
 | [1013-fibonacci-number](https://github.com/b0tAbhinaV/LeetCode-Ans/tree/master/1013-fibonacci-number) |
 | [2050-count-good-numbers](https://github.com/b0tAbhinaV/LeetCode-Ans/tree/master/2050-count-good-numbers) |
+| [2573-remove-nodes-from-linked-list](https://github.com/b0tAbhinaV/LeetCode-Ans/tree/master/2573-remove-nodes-from-linked-list) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/b0tAbhinaV/LeetCode-Ans/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Memoization
 |  |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/b0tAbhinaV/LeetCode-Ans/tree/master/0234-palindrome-linked-list) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/b0tAbhinaV/LeetCode-Ans/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
+| [2573-remove-nodes-from-linked-list](https://github.com/b0tAbhinaV/LeetCode-Ans/tree/master/2573-remove-nodes-from-linked-list) |
 ## Linked List
 |  |
 | ------- |
@@ -116,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0328-odd-even-linked-list](https://github.com/b0tAbhinaV/LeetCode-Ans/tree/master/0328-odd-even-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/b0tAbhinaV/LeetCode-Ans/tree/master/0908-middle-of-the-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/b0tAbhinaV/LeetCode-Ans/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
+| [2573-remove-nodes-from-linked-list](https://github.com/b0tAbhinaV/LeetCode-Ans/tree/master/2573-remove-nodes-from-linked-list) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -136,4 +139,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/b0tAbhinaV/LeetCode-Ans/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+## Monotonic Stack
+|  |
+| ------- |
+| [2573-remove-nodes-from-linked-list](https://github.com/b0tAbhinaV/LeetCode-Ans/tree/master/2573-remove-nodes-from-linked-list) |
 <!---LeetCode Topics End-->
