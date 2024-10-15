@@ -131,9 +131,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/b0tAbhinaV/LeetCode-Ans/tree/master/0022-generate-parentheses) |
+| [0078-subsets](https://github.com/b0tAbhinaV/LeetCode-Ans/tree/master/0078-subsets) |
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/b0tAbhinaV/LeetCode-Ans/tree/master/0078-subsets) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/b0tAbhinaV/LeetCode-Ans/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Simulation
 |  |
@@ -143,4 +145,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2573-remove-nodes-from-linked-list](https://github.com/b0tAbhinaV/LeetCode-Ans/tree/master/2573-remove-nodes-from-linked-list) |
+## Array
+|  |
+| ------- |
+| [0078-subsets](https://github.com/b0tAbhinaV/LeetCode-Ans/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
