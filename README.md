@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/b0tAbhinaV/LeetCode-Ans/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/b0tAbhinaV/LeetCode-Ans/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/b0tAbhinaV/LeetCode-Ans/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/b0tAbhinaV/LeetCode-Ans/tree/master/0078-subsets) |
 ## Bit Manipulation
 |  |
@@ -150,5 +151,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/b0tAbhinaV/LeetCode-Ans/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/b0tAbhinaV/LeetCode-Ans/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/b0tAbhinaV/LeetCode-Ans/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
