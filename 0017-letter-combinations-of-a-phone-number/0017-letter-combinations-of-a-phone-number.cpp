@@ -5,11 +5,11 @@ public:
             ans.push_back(temp);
             return;
         }
-        string val = dict[digits[idx] - '0'];
+        string val = dict[digits[idx] - '0']; //characters for current digit
         for(int i = 0; i<val.size(); i++){
-            temp += val[i];
-            fun(digits, n, dict, ans, idx+1, temp);
-            temp.pop_back();
+            temp += val[i]; //add current char to string
+            fun(digits, n, dict, ans, idx+1, temp); //recur for next digit
+            temp.pop_back(); //backtrack by removing last char
         }
     }
     vector<string> letterCombinations(string digits) {
