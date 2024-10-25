@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/b0tAbhinaV/LeetCode-Ans/tree/master/0084-largest-rectangle-in-histogram) |
 | [0234-palindrome-linked-list](https://github.com/b0tAbhinaV/LeetCode-Ans/tree/master/0234-palindrome-linked-list) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/b0tAbhinaV/LeetCode-Ans/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [2573-remove-nodes-from-linked-list](https://github.com/b0tAbhinaV/LeetCode-Ans/tree/master/2573-remove-nodes-from-linked-list) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/b0tAbhinaV/LeetCode-Ans/tree/master/0084-largest-rectangle-in-histogram) |
 | [2573-remove-nodes-from-linked-list](https://github.com/b0tAbhinaV/LeetCode-Ans/tree/master/2573-remove-nodes-from-linked-list) |
 ## Array
 |  |
@@ -158,5 +160,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/b0tAbhinaV/LeetCode-Ans/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/b0tAbhinaV/LeetCode-Ans/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/b0tAbhinaV/LeetCode-Ans/tree/master/0078-subsets) |
+| [0084-largest-rectangle-in-histogram](https://github.com/b0tAbhinaV/LeetCode-Ans/tree/master/0084-largest-rectangle-in-histogram) |
 | [0090-subsets-ii](https://github.com/b0tAbhinaV/LeetCode-Ans/tree/master/0090-subsets-ii) |
 <!---LeetCode Topics End-->
