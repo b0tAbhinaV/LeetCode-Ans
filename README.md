@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/b0tAbhinaV/LeetCode-Ans/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0141-linked-list-cycle](https://github.com/b0tAbhinaV/LeetCode-Ans/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/b0tAbhinaV/LeetCode-Ans/tree/master/0142-linked-list-cycle-ii) |
+| [0146-lru-cache](https://github.com/b0tAbhinaV/LeetCode-Ans/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/b0tAbhinaV/LeetCode-Ans/tree/master/0160-intersection-of-two-linked-lists) |
 | [0205-isomorphic-strings](https://github.com/b0tAbhinaV/LeetCode-Ans/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/b0tAbhinaV/LeetCode-Ans/tree/master/0242-valid-anagram) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/b0tAbhinaV/LeetCode-Ans/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/b0tAbhinaV/LeetCode-Ans/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/b0tAbhinaV/LeetCode-Ans/tree/master/0142-linked-list-cycle-ii) |
+| [0146-lru-cache](https://github.com/b0tAbhinaV/LeetCode-Ans/tree/master/0146-lru-cache) |
 | [0148-sort-list](https://github.com/b0tAbhinaV/LeetCode-Ans/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/b0tAbhinaV/LeetCode-Ans/tree/master/0160-intersection-of-two-linked-lists) |
 | [0203-remove-linked-list-elements](https://github.com/b0tAbhinaV/LeetCode-Ans/tree/master/0203-remove-linked-list-elements) |
@@ -176,4 +178,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/b0tAbhinaV/LeetCode-Ans/tree/master/0239-sliding-window-maximum) |
+## Design
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/b0tAbhinaV/LeetCode-Ans/tree/master/0146-lru-cache) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/b0tAbhinaV/LeetCode-Ans/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
