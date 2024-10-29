@@ -168,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/b0tAbhinaV/LeetCode-Ans/tree/master/0084-largest-rectangle-in-histogram) |
 | [0090-subsets-ii](https://github.com/b0tAbhinaV/LeetCode-Ans/tree/master/0090-subsets-ii) |
 | [0239-sliding-window-maximum](https://github.com/b0tAbhinaV/LeetCode-Ans/tree/master/0239-sliding-window-maximum) |
+| [1046-max-consecutive-ones-iii](https://github.com/b0tAbhinaV/LeetCode-Ans/tree/master/1046-max-consecutive-ones-iii) |
 ## Queue
 |  |
 | ------- |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/b0tAbhinaV/LeetCode-Ans/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0239-sliding-window-maximum](https://github.com/b0tAbhinaV/LeetCode-Ans/tree/master/0239-sliding-window-maximum) |
+| [1046-max-consecutive-ones-iii](https://github.com/b0tAbhinaV/LeetCode-Ans/tree/master/1046-max-consecutive-ones-iii) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -189,4 +191,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/b0tAbhinaV/LeetCode-Ans/tree/master/0146-lru-cache) |
+## Binary Search
+|  |
+| ------- |
+| [1046-max-consecutive-ones-iii](https://github.com/b0tAbhinaV/LeetCode-Ans/tree/master/1046-max-consecutive-ones-iii) |
+## Prefix Sum
+|  |
+| ------- |
+| [1046-max-consecutive-ones-iii](https://github.com/b0tAbhinaV/LeetCode-Ans/tree/master/1046-max-consecutive-ones-iii) |
 <!---LeetCode Topics End-->
