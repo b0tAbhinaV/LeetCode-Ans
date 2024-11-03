@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/b0tAbhinaV/LeetCode-Ans/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/b0tAbhinaV/LeetCode-Ans/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/b0tAbhinaV/LeetCode-Ans/tree/master/0234-palindrome-linked-list) |
+| [0455-assign-cookies](https://github.com/b0tAbhinaV/LeetCode-Ans/tree/master/0455-assign-cookies) |
 | [0908-middle-of-the-linked-list](https://github.com/b0tAbhinaV/LeetCode-Ans/tree/master/0908-middle-of-the-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/b0tAbhinaV/LeetCode-Ans/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## String
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/b0tAbhinaV/LeetCode-Ans/tree/master/0148-sort-list) |
 | [0242-valid-anagram](https://github.com/b0tAbhinaV/LeetCode-Ans/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/b0tAbhinaV/LeetCode-Ans/tree/master/0451-sort-characters-by-frequency) |
+| [0455-assign-cookies](https://github.com/b0tAbhinaV/LeetCode-Ans/tree/master/0455-assign-cookies) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -179,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/b0tAbhinaV/LeetCode-Ans/tree/master/0084-largest-rectangle-in-histogram) |
 | [0090-subsets-ii](https://github.com/b0tAbhinaV/LeetCode-Ans/tree/master/0090-subsets-ii) |
 | [0239-sliding-window-maximum](https://github.com/b0tAbhinaV/LeetCode-Ans/tree/master/0239-sliding-window-maximum) |
+| [0455-assign-cookies](https://github.com/b0tAbhinaV/LeetCode-Ans/tree/master/0455-assign-cookies) |
 | [0966-binary-subarrays-with-sum](https://github.com/b0tAbhinaV/LeetCode-Ans/tree/master/0966-binary-subarrays-with-sum) |
 | [1034-subarrays-with-k-different-integers](https://github.com/b0tAbhinaV/LeetCode-Ans/tree/master/1034-subarrays-with-k-different-integers) |
 | [1046-max-consecutive-ones-iii](https://github.com/b0tAbhinaV/LeetCode-Ans/tree/master/1046-max-consecutive-ones-iii) |
@@ -224,4 +227,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-max-consecutive-ones-iii](https://github.com/b0tAbhinaV/LeetCode-Ans/tree/master/1046-max-consecutive-ones-iii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/b0tAbhinaV/LeetCode-Ans/tree/master/1370-count-number-of-nice-subarrays) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/b0tAbhinaV/LeetCode-Ans/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+## Greedy
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/b0tAbhinaV/LeetCode-Ans/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->
