@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/b0tAbhinaV/LeetCode-Ans/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/b0tAbhinaV/LeetCode-Ans/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/b0tAbhinaV/LeetCode-Ans/tree/master/0451-sort-characters-by-frequency) |
+| [0621-task-scheduler](https://github.com/b0tAbhinaV/LeetCode-Ans/tree/master/0621-task-scheduler) |
 | [0966-binary-subarrays-with-sum](https://github.com/b0tAbhinaV/LeetCode-Ans/tree/master/0966-binary-subarrays-with-sum) |
 | [1034-subarrays-with-k-different-integers](https://github.com/b0tAbhinaV/LeetCode-Ans/tree/master/1034-subarrays-with-k-different-integers) |
 | [1370-count-number-of-nice-subarrays](https://github.com/b0tAbhinaV/LeetCode-Ans/tree/master/1370-count-number-of-nice-subarrays) |
@@ -102,12 +103,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/b0tAbhinaV/LeetCode-Ans/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/b0tAbhinaV/LeetCode-Ans/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/b0tAbhinaV/LeetCode-Ans/tree/master/0455-assign-cookies) |
+| [0621-task-scheduler](https://github.com/b0tAbhinaV/LeetCode-Ans/tree/master/0621-task-scheduler) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/b0tAbhinaV/LeetCode-Ans/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/b0tAbhinaV/LeetCode-Ans/tree/master/0239-sliding-window-maximum) |
 | [0451-sort-characters-by-frequency](https://github.com/b0tAbhinaV/LeetCode-Ans/tree/master/0451-sort-characters-by-frequency) |
+| [0621-task-scheduler](https://github.com/b0tAbhinaV/LeetCode-Ans/tree/master/0621-task-scheduler) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -116,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/b0tAbhinaV/LeetCode-Ans/tree/master/0451-sort-characters-by-frequency) |
+| [0621-task-scheduler](https://github.com/b0tAbhinaV/LeetCode-Ans/tree/master/0621-task-scheduler) |
 | [1034-subarrays-with-k-different-integers](https://github.com/b0tAbhinaV/LeetCode-Ans/tree/master/1034-subarrays-with-k-different-integers) |
 ## Stack
 |  |
@@ -186,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/b0tAbhinaV/LeetCode-Ans/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/b0tAbhinaV/LeetCode-Ans/tree/master/0239-sliding-window-maximum) |
 | [0455-assign-cookies](https://github.com/b0tAbhinaV/LeetCode-Ans/tree/master/0455-assign-cookies) |
+| [0621-task-scheduler](https://github.com/b0tAbhinaV/LeetCode-Ans/tree/master/0621-task-scheduler) |
 | [0966-binary-subarrays-with-sum](https://github.com/b0tAbhinaV/LeetCode-Ans/tree/master/0966-binary-subarrays-with-sum) |
 | [1034-subarrays-with-k-different-integers](https://github.com/b0tAbhinaV/LeetCode-Ans/tree/master/1034-subarrays-with-k-different-integers) |
 | [1046-max-consecutive-ones-iii](https://github.com/b0tAbhinaV/LeetCode-Ans/tree/master/1046-max-consecutive-ones-iii) |
@@ -235,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/b0tAbhinaV/LeetCode-Ans/tree/master/0455-assign-cookies) |
+| [0621-task-scheduler](https://github.com/b0tAbhinaV/LeetCode-Ans/tree/master/0621-task-scheduler) |
 ## Quickselect
 |  |
 | ------- |
