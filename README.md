@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/b0tAbhinaV/LeetCode-Ans/tree/master/0160-intersection-of-two-linked-lists) |
 | [0205-isomorphic-strings](https://github.com/b0tAbhinaV/LeetCode-Ans/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/b0tAbhinaV/LeetCode-Ans/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/b0tAbhinaV/LeetCode-Ans/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/b0tAbhinaV/LeetCode-Ans/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/b0tAbhinaV/LeetCode-Ans/tree/master/0451-sort-characters-by-frequency) |
 | [0621-task-scheduler](https://github.com/b0tAbhinaV/LeetCode-Ans/tree/master/0621-task-scheduler) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/b0tAbhinaV/LeetCode-Ans/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/b0tAbhinaV/LeetCode-Ans/tree/master/0242-valid-anagram) |
 | [0295-find-median-from-data-stream](https://github.com/b0tAbhinaV/LeetCode-Ans/tree/master/0295-find-median-from-data-stream) |
+| [0347-top-k-frequent-elements](https://github.com/b0tAbhinaV/LeetCode-Ans/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/b0tAbhinaV/LeetCode-Ans/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/b0tAbhinaV/LeetCode-Ans/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/b0tAbhinaV/LeetCode-Ans/tree/master/0621-task-scheduler) |
@@ -114,16 +116,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/b0tAbhinaV/LeetCode-Ans/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/b0tAbhinaV/LeetCode-Ans/tree/master/0239-sliding-window-maximum) |
 | [0295-find-median-from-data-stream](https://github.com/b0tAbhinaV/LeetCode-Ans/tree/master/0295-find-median-from-data-stream) |
+| [0347-top-k-frequent-elements](https://github.com/b0tAbhinaV/LeetCode-Ans/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/b0tAbhinaV/LeetCode-Ans/tree/master/0451-sort-characters-by-frequency) |
 | [0621-task-scheduler](https://github.com/b0tAbhinaV/LeetCode-Ans/tree/master/0621-task-scheduler) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/b0tAbhinaV/LeetCode-Ans/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Bucket Sort
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/b0tAbhinaV/LeetCode-Ans/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/b0tAbhinaV/LeetCode-Ans/tree/master/0451-sort-characters-by-frequency) |
 ## Counting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/b0tAbhinaV/LeetCode-Ans/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/b0tAbhinaV/LeetCode-Ans/tree/master/0451-sort-characters-by-frequency) |
 | [0621-task-scheduler](https://github.com/b0tAbhinaV/LeetCode-Ans/tree/master/0621-task-scheduler) |
 | [1034-subarrays-with-k-different-integers](https://github.com/b0tAbhinaV/LeetCode-Ans/tree/master/1034-subarrays-with-k-different-integers) |
@@ -157,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0148-sort-list](https://github.com/b0tAbhinaV/LeetCode-Ans/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/b0tAbhinaV/LeetCode-Ans/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/b0tAbhinaV/LeetCode-Ans/tree/master/0347-top-k-frequent-elements) |
 ## Merge Sort
 |  |
 | ------- |
@@ -195,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/b0tAbhinaV/LeetCode-Ans/tree/master/0090-subsets-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/b0tAbhinaV/LeetCode-Ans/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/b0tAbhinaV/LeetCode-Ans/tree/master/0239-sliding-window-maximum) |
+| [0347-top-k-frequent-elements](https://github.com/b0tAbhinaV/LeetCode-Ans/tree/master/0347-top-k-frequent-elements) |
 | [0455-assign-cookies](https://github.com/b0tAbhinaV/LeetCode-Ans/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/b0tAbhinaV/LeetCode-Ans/tree/master/0621-task-scheduler) |
 | [0876-hand-of-straights](https://github.com/b0tAbhinaV/LeetCode-Ans/tree/master/0876-hand-of-straights) |
@@ -255,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/b0tAbhinaV/LeetCode-Ans/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/b0tAbhinaV/LeetCode-Ans/tree/master/0347-top-k-frequent-elements) |
 ## Tree
 |  |
 | ------- |
