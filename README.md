@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/b0tAbhinaV/LeetCode-Ans/tree/master/0022-generate-parentheses) |
+| [0542-01-matrix](https://github.com/b0tAbhinaV/LeetCode-Ans/tree/master/0542-01-matrix) |
 | [1013-fibonacci-number](https://github.com/b0tAbhinaV/LeetCode-Ans/tree/master/1013-fibonacci-number) |
 ## Recursion
 |  |
@@ -204,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/b0tAbhinaV/LeetCode-Ans/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/b0tAbhinaV/LeetCode-Ans/tree/master/0347-top-k-frequent-elements) |
 | [0455-assign-cookies](https://github.com/b0tAbhinaV/LeetCode-Ans/tree/master/0455-assign-cookies) |
+| [0542-01-matrix](https://github.com/b0tAbhinaV/LeetCode-Ans/tree/master/0542-01-matrix) |
 | [0621-task-scheduler](https://github.com/b0tAbhinaV/LeetCode-Ans/tree/master/0621-task-scheduler) |
 | [0733-flood-fill](https://github.com/b0tAbhinaV/LeetCode-Ans/tree/master/0733-flood-fill) |
 | [0876-hand-of-straights](https://github.com/b0tAbhinaV/LeetCode-Ans/tree/master/0876-hand-of-straights) |
@@ -291,9 +293,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0542-01-matrix](https://github.com/b0tAbhinaV/LeetCode-Ans/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/b0tAbhinaV/LeetCode-Ans/tree/master/0733-flood-fill) |
 ## Matrix
 |  |
 | ------- |
+| [0542-01-matrix](https://github.com/b0tAbhinaV/LeetCode-Ans/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/b0tAbhinaV/LeetCode-Ans/tree/master/0733-flood-fill) |
 <!---LeetCode Topics End-->
