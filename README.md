@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/b0tAbhinaV/LeetCode-Ans/tree/master/0451-sort-characters-by-frequency) |
 | [0621-task-scheduler](https://github.com/b0tAbhinaV/LeetCode-Ans/tree/master/0621-task-scheduler) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/b0tAbhinaV/LeetCode-Ans/tree/master/0789-kth-largest-element-in-a-stream) |
+| [1917-maximum-average-pass-ratio](https://github.com/b0tAbhinaV/LeetCode-Ans/tree/master/1917-maximum-average-pass-ratio) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -210,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-max-consecutive-ones-iii](https://github.com/b0tAbhinaV/LeetCode-Ans/tree/master/1046-max-consecutive-ones-iii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/b0tAbhinaV/LeetCode-Ans/tree/master/1370-count-number-of-nice-subarrays) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/b0tAbhinaV/LeetCode-Ans/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [1917-maximum-average-pass-ratio](https://github.com/b0tAbhinaV/LeetCode-Ans/tree/master/1917-maximum-average-pass-ratio) |
 ## Queue
 |  |
 | ------- |
@@ -258,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/b0tAbhinaV/LeetCode-Ans/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/b0tAbhinaV/LeetCode-Ans/tree/master/0621-task-scheduler) |
 | [0876-hand-of-straights](https://github.com/b0tAbhinaV/LeetCode-Ans/tree/master/0876-hand-of-straights) |
+| [1917-maximum-average-pass-ratio](https://github.com/b0tAbhinaV/LeetCode-Ans/tree/master/1917-maximum-average-pass-ratio) |
 ## Quickselect
 |  |
 | ------- |
