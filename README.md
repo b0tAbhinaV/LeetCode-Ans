@@ -215,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0966-binary-subarrays-with-sum](https://github.com/b0tAbhinaV/LeetCode-Ans/tree/master/0966-binary-subarrays-with-sum) |
 | [1034-subarrays-with-k-different-integers](https://github.com/b0tAbhinaV/LeetCode-Ans/tree/master/1034-subarrays-with-k-different-integers) |
 | [1046-max-consecutive-ones-iii](https://github.com/b0tAbhinaV/LeetCode-Ans/tree/master/1046-max-consecutive-ones-iii) |
+| [1073-number-of-enclaves](https://github.com/b0tAbhinaV/LeetCode-Ans/tree/master/1073-number-of-enclaves) |
 | [1370-count-number-of-nice-subarrays](https://github.com/b0tAbhinaV/LeetCode-Ans/tree/master/1370-count-number-of-nice-subarrays) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/b0tAbhinaV/LeetCode-Ans/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1917-maximum-average-pass-ratio](https://github.com/b0tAbhinaV/LeetCode-Ans/tree/master/1917-maximum-average-pass-ratio) |
@@ -294,14 +295,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0733-flood-fill](https://github.com/b0tAbhinaV/LeetCode-Ans/tree/master/0733-flood-fill) |
+| [1073-number-of-enclaves](https://github.com/b0tAbhinaV/LeetCode-Ans/tree/master/1073-number-of-enclaves) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0542-01-matrix](https://github.com/b0tAbhinaV/LeetCode-Ans/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/b0tAbhinaV/LeetCode-Ans/tree/master/0733-flood-fill) |
+| [1073-number-of-enclaves](https://github.com/b0tAbhinaV/LeetCode-Ans/tree/master/1073-number-of-enclaves) |
 ## Matrix
 |  |
 | ------- |
 | [0542-01-matrix](https://github.com/b0tAbhinaV/LeetCode-Ans/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/b0tAbhinaV/LeetCode-Ans/tree/master/0733-flood-fill) |
+| [1073-number-of-enclaves](https://github.com/b0tAbhinaV/LeetCode-Ans/tree/master/1073-number-of-enclaves) |
+## Union Find
+|  |
+| ------- |
+| [1073-number-of-enclaves](https://github.com/b0tAbhinaV/LeetCode-Ans/tree/master/1073-number-of-enclaves) |
 <!---LeetCode Topics End-->
