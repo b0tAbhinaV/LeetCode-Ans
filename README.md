@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1013-fibonacci-number](https://github.com/b0tAbhinaV/LeetCode-Ans/tree/master/1013-fibonacci-number) |
 | [1370-count-number-of-nice-subarrays](https://github.com/b0tAbhinaV/LeetCode-Ans/tree/master/1370-count-number-of-nice-subarrays) |
 | [2050-count-good-numbers](https://github.com/b0tAbhinaV/LeetCode-Ans/tree/master/2050-count-good-numbers) |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/b0tAbhinaV/LeetCode-Ans/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/b0tAbhinaV/LeetCode-Ans/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Two Pointers
 |  |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/b0tAbhinaV/LeetCode-Ans/tree/master/0621-task-scheduler) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/b0tAbhinaV/LeetCode-Ans/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1917-maximum-average-pass-ratio](https://github.com/b0tAbhinaV/LeetCode-Ans/tree/master/1917-maximum-average-pass-ratio) |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/b0tAbhinaV/LeetCode-Ans/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -187,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/b0tAbhinaV/LeetCode-Ans/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/b0tAbhinaV/LeetCode-Ans/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Monotonic Stack
 |  |
@@ -215,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1370-count-number-of-nice-subarrays](https://github.com/b0tAbhinaV/LeetCode-Ans/tree/master/1370-count-number-of-nice-subarrays) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/b0tAbhinaV/LeetCode-Ans/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1917-maximum-average-pass-ratio](https://github.com/b0tAbhinaV/LeetCode-Ans/tree/master/1917-maximum-average-pass-ratio) |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/b0tAbhinaV/LeetCode-Ans/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Queue
 |  |
 | ------- |
